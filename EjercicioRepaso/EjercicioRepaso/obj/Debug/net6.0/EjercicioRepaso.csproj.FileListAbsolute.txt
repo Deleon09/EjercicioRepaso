@@ -1,0 +1,15 @@
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\bin\Debug\net6.0\EjercicioRepaso.exe
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\bin\Debug\net6.0\EjercicioRepaso.deps.json
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\bin\Debug\net6.0\EjercicioRepaso.runtimeconfig.json
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\bin\Debug\net6.0\EjercicioRepaso.dll
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\bin\Debug\net6.0\EjercicioRepaso.pdb
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.csproj.AssemblyReference.cache
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.AssemblyInfoInputs.cache
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.AssemblyInfo.cs
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.csproj.CoreCompileInputs.cache
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.dll
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\refint\EjercicioRepaso.dll
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.pdb
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\EjercicioRepaso.genruntimeconfig.cache
+D:\Rider-projects\EjercicioRepaso\EjercicioRepaso\obj\Debug\net6.0\ref\EjercicioRepaso.dll
